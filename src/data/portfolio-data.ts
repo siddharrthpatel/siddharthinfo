@@ -74,6 +74,14 @@ export const experience: Experience[] = [
 
 export const projects: Project[] = [
   {
+    id: "proj-6",
+    name: "AI-Powered Personal Portfolio",
+    description:
+      "Created an AI portfolio during a Generative AI internship at EISystems Technologies, focusing on applying AI to make a personal portfolio more interactive and customized. Worked with principles of Generative AI in a real-world portfolio application, explored AI-based methods of presenting personal data and accomplishments, and implemented features for a more engaging and personalized portfolio experience. Gained knowledge about AI applications, prompt engineering, and its implementation.",
+    techStack: ["Python", "Streamlit"],
+    status: "active",
+  },
+  {
     id: "proj-1",
     name: "Pankaj Sharma Vocalist Portfolio",
     description:
