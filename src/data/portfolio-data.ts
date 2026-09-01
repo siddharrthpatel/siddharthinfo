@@ -41,6 +41,16 @@ export const personalInfo: PersonalInfo = {
 
 export const experience: Experience[] = [
   {
+    id: "exp-3",
+    company: "EISystems Technologies",
+    role: "Generative AI Intern",
+    location: "IIT Kanpur (Remote)",
+    startDate: "2026-06",
+    endDate: "2026-08",
+    description: "Completed an 8-week internship with EISystems Services & EISystems Technologies as part of Prabandhan'26 at IIT Kanpur. Engaged in training focused on Generative AI, exploring its practical applications in various sectors. Developed and submitted a project report on an AI-Powered Personal Portfolio, showcasing hands-on experience with AI technologies. Gained valuable insights into real-world applications of Generative AI, enhancing technical skills and industry knowledge.",
+    current: false,
+  },
+  {
     id: "exp-2",
     company: "HCL GUVI",
     role: "Full Stack Developer Intern (Virtual)",
